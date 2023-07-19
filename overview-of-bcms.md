@@ -35,9 +35,18 @@ The only sigificant data in the profile is the `active` which allows the user to
 
 Roles define the capabilities of the user. Each user is related to a single role but roles can define capabilities for more than one role.
 
+Here are the current MAX staff that have BCMS privileges:
+
+- Greg (root)
+- Patricia, Kim, Denis (admin/staff)
+- Mike (admin/instructor)
+- Sean, Kelsey, Nick, Kait (instructor)
+
+These are all easily visible for those that can display users.
+
 ### Root
 
-The `root` role is the highest security level. There are no restrictions on the root user.
+The `root` role is the highest security level. There are no restrictions on the root user. 
 
 ### Admin
 
