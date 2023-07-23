@@ -1,4 +1,4 @@
-# Documenation for BCMS
+# Documentation for BCMS
 
 * [Overview](overview-of-bcms.md)
 * [Architecture](architecture-of-bcms.md)
