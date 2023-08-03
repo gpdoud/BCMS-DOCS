@@ -13,7 +13,7 @@
 * [Assessment model (TBD)](models/assessment-model-bcms.md)
 * [Attendance model (TBD)](models/attendance-model-bcms.md)
 * [CalendarDay model (TBD)](models/calendar-day-model-bcms.md)
-* [Calendar model (TBD)](models/calendar-model-bcms.md)
+* [Calendar model](models/calendar-model-bcms.md)
 * [Cohort model](models/cohort-model-bcms.md)
 * [Config model](models/config-model-bcms.md)
 * [Enrollment model (TBD)](models/enrollment-model-bcms.md)
