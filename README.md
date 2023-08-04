@@ -16,7 +16,7 @@
 * [Calendar model](models/calendar-model-bcms.md)
 * [Cohort model](models/cohort-model-bcms.md)
 * [Config model](models/config-model-bcms.md)
-* [Enrollment model (TBD)](models/enrollment-model-bcms.md)
+* [Enrollment model)](models/enrollment-model-bcms.md)
 * [Evaluation model (TBD)](models/evaluation-model-bcms.md)
 * [Feedback model (TBD)](models/feedback-model-bcms.md)
 * [InstructorCohort model (TBD)](models/instructor-cohort-model-bcms.md)
