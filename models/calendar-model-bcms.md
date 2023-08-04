@@ -6,6 +6,8 @@
 
 The `Calendar` model is the primary model that supports that calendar function for cohorts. It works with the `CalendarDay` model to provide the complete calendar function.
 
+***Note: When deleting a calendar, all the calendar days will be automatically deleted.***
+
 ## Properties
 
 The `Calendar` has a number of important properties.
