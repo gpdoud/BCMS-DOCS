@@ -16,3 +16,8 @@ The `Tyoe` identifies the calendar as either a full-time (FT) or part-time (PT).
 
 The `Tenplate`, when set to `true` means it exists to be cloned to create new calendars rather than being assigned to a cohort. The cloning process can use a template calendar or a non-template calendar.
 
+## Functions
+
+### Clone
+
+The `Clone` function creates a new calendar by copying the days from an existing calendar. The existing calendar can be a template or not. The new calendar will have the same number of class days as the existing calendar. It works by simply selecting the existing calendar and the start date of the new calendar. The days in the existing calendar are processed, existing calendar day is changed along with the week and day numbers are added to the new calendar.
